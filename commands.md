@@ -16,4 +16,4 @@ Speak ```espeak "NITT is pride of India"```
 
 Fire ```aafire```
 
-Aquirium ```asciiquarium```
+Aquarium ```asciiquarium```
