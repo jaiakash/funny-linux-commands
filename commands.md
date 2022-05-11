@@ -1,19 +1,19 @@
-sl (Steam Locomotive)
+Steam Locomotive ```sl```
 
-fortune (fortune)
+Fortune ```fortune```
 
-factor 6969
+Maths ```factor 6969```
 
-cowsay i love you
+Mowwwwww ```cowsay i love you```
 
-yes i am great
+Infinite flush ```yes i am great```
 
-toilet -f mono12 -F metal Technical Council
+Terminal Text ```toilet -f mono12 -F metal Technical Council```
 
-Fuck Bomb :(){ :|:& }:
+Fuck Bomb (DONT TRY) ```:(){ :|:& }:```
 
-espeak "NITT is pride of India"
+Speak ```espeak "NITT is pride of India"```
 
-aafire
+Fire ```aafire```
 
-asciiquarium
+Aquirium ```asciiquarium```
