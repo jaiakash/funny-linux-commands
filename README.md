@@ -1,2 +1,3 @@
 # funny-linux-commands
 
+I should be studying...
